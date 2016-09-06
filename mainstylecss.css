@@ -1,0 +1,26 @@
+@charset "UTF-8";
+h1 {
+	color: blue;
+	text-align: center;
+	font-size: 28pt;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: bold;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-transform: none;
+	letter-spacing: 7pt;
+	width: auto;
+	background-color: #F7F702;
+}
+h2 {
+	font-style: italic;
+	color: #030303;
+	font-weight: normal;
+	font-size: small;
+	text-align: center;
+	font-variant: normal;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body {
+	background-color: #BDBCB5;
+}
